@@ -1,4 +1,5 @@
 # aula-git
 adadadadada
-# Alteração nos arquivos README
-Alguém editou aqui..
+
+# Criando O MERGE HELL
+Esse código irá gerar conflito no momento do merge 
